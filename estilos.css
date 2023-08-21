@@ -1,0 +1,19 @@
+.list-group-item.active,
+.list-group-item.active:hover {
+  background-color: #0b0c0c !important;
+  border-color: #737471 !important;
+}
+
+.bi-arrow-down-square-fill{
+    cursor: pointer;
+    
+}
+
+.bi-arrow-down-square-fill:hover{
+  color: gray;
+}
+
+
+.tarjeta:hover{
+    border: 2px solid black;
+}
